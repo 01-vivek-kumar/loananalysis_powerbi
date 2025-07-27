@@ -108,10 +108,10 @@ Custom-designed layouts using **Canva** were used to improve report clarity and 
 
 ---
 
-## 🚀 How to Run This Project
+## 🙌 Author
 
-1. Clone the repo
-2. Import MySQL database schema and load data
-3. Open `Project1.ipynb` in Jupyter to explore and analyze
-4. Open Power BI `.pbix` file (if shared) to view the dashboard
-5. Review documentation and insights
+**[Vivek Kumar]**  
+Connect with me on [LinkedIn](https://www.linkedin.com/vivek-kumar-vt/)  
+For queries or feedback, feel free to reach out!
+
+---
